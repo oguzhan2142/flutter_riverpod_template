@@ -1,0 +1,1 @@
+enum Tag { AUTH, CUSTOMER }
